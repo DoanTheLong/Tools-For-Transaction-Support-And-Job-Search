@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang</OriginalElement>
+  <nodes>
+    <node x="189.3972645161291" y="89.11592258064536">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang</node>
+    <node x="524.7563612903226" y="393.02921290322604">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Booking_baithue</node>
+    <node x="-63.355561290322555" y="-82.18049032258057">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user</node>
+    <node x="-395.24028387096774" y="-82.18049032258057">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_otp</node>
+    <node x="509.7563612903226" y="66.73326451612931">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Notification_notification</node>
+    <node x="298.6472645161291" y="-82.18049032258057">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_nhanvien</node>
+    <node x="-24.172954838709416" y="487.56526451612933">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Rental_baitimviec</node>
+    <node x="225.2917032258066" y="487.56526451612933">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Transaction_giaodich</node>
+    <node x="-326.7204903225807" y="559.5652645161293">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_message</node>
+    <node x="-402.2619612903226" y="301.81950967741943">3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_conversation</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_message" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user" relationship="REFERENCES">
+      <point x="108.65333853935533" y="-71.5487240258069" />
+      <point x="-157.8216292025802" y="569.0165404903224" />
+      <point x="-157.8216292025802" y="483.4097548387097" />
+      <point x="-26.022227956989212" y="483.4097548387097" />
+      <point x="-74.66666666666666" y="249.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_conversation" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user" relationship="REFERENCES">
+      <point x="0.0" y="-57.0" />
+      <point x="-265.7619612903226" y="379.9747870967742" />
+      <point x="32.55690322580648" y="379.9747870967742" />
+      <point x="32.55690322580648" y="415.81950967741943" />
+      <point x="0.0" y="249.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_message" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Chatrealtime_conversation" relationship="REFERENCES">
+      <point x="16.491589852903473" y="-80.25592964129021" />
+      <point x="-265.7619612903226" y="560.3093348748391" />
+      <point x="0.0" y="57.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Booking_baithue" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang" relationship="REFERENCES">
+      <point x="0.0" y="-165.0" />
+      <point x="633.2563612903226" y="431.7565935483873" />
+      <point x="402.55184516129" y="431.7565935483873" />
+      <point x="78.15458064516088" y="45.37677419354813" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user" relationship="REFERENCES">
+      <point x="0.0" y="-57.0" />
+      <point x="324.3972645161291" y="146.11592258064536" />
+      <point x="123.3111053763441" y="146.11592258064536" />
+      <point x="74.66666666666666" y="249.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_otp" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user" relationship="REFERENCES">
+      <point x="0.0" y="-93.0" />
+      <point x="-293.74028387096774" y="246.58859354838717" />
+      <point x="-48.15971952516105" y="246.58859354838717" />
+      <point x="-96.8041582348385" y="33.34095483870948" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Transaction_giaodich" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang" relationship="REFERENCES">
+      <point x="66.75" y="-153.0" />
+      <point x="358.7917032258066" y="487.56526451612933" />
+      <point x="358.7917032258066" y="468.95876129032274" />
+      <point x="358.1472645161291" y="468.95876129032274" />
+      <point x="33.75" y="57.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_nhanvien" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_user" relationship="REFERENCES">
+      <point x="0.0" y="-57.0" />
+      <point x="425.6472645161291" y="-34.407638709677144" />
+      <point x="123.3111053763441" y="-34.407638709677144" />
+      <point x="74.66666666666666" y="249.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Rental_baitimviec" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang" relationship="REFERENCES">
+      <point x="0.0" y="-153.0" />
+      <point x="84.32704516129058" y="478.7511741935487" />
+      <point x="175.02085161290327" y="478.7511741935487" />
+      <point x="175.02085161290327" y="218.1002838709679" />
+      <point x="223.1472645161291" y="218.1002838709679" />
+      <point x="-101.25" y="57.0" />
+    </edge>
+    <edge source="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Notification_notification" target="3ece3d68-e782-43c4-b715-b7b2eaa51210.TABLE:main.Authentication_khachhang" relationship="REFERENCES">
+      <point x="0.0" y="-117.0" />
+      <point x="633.2563612903226" y="330.46606451612934" />
+      <point x="425.6472645161291" y="330.46606451612934" />
+      <point x="101.25" y="57.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="0.714839138134593" showDependencies="false" x="257.7640258064513" y="243.66399999999982" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Columns</Category>
+    <Category>Comments</Category>
+    <Category>Key columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
