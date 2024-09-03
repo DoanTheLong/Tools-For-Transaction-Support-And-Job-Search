@@ -5,20 +5,24 @@
   - Android
   - Web   
 ### II. Functions
-UC001_Login
-- Register
-- Post
-- Post
-- Update Personal Information
-- Statistics by Different Groups Customer
-- Add Customer
-- Update Customer
-- Search Customer
-- Annual Revenue Statistics
-- Add Employee
-- Delete Employee
-- Update Employee
-- Search Employee
+- Customer Manager:
+  - Add Customer
+  - Update Customer
+  - Search Customer
+- Employee Manager:
+  - Add Employee
+  - Delete Employee
+  - Update Employee
+  - Search Employee
+- Post Manager:
+  - Add Post
+  - Delete Post
+  - Update Post
+  - Review Post (employee/ manager)
+- Some other functions: 
+  - Update Personal Information (employee/ customer)
+  - Statistics by Different Groups Customer (employee/ manager)
+  - Annual Revenue Statistics (employee/ manager)
 ### III. Technologies Used
 - Programming language:
   - Python, JavaScript.
@@ -29,11 +33,13 @@ UC001_Login
 - Architecture:
   - Client-Server
 - Deploy:
-  - Github, Vercel, Pythonanywhere 
-### IV. Software Demo Video Link
-- [Software Demo Video Link](https://github.com)
-### V. Installation Guide
+  - Github, Vercel, Pythonanywhere
+- Other technology:
+  - JWT
+### IV. Installation Guide
 - Step 1:
 - Step 2:
 - Step 3:
 - Step 4:
+### V. Some images of the software interface
+![markdown](https://images.viblo.asia/518eea86-f0bd-45c9-bf38-d5cb119e947d.png)
