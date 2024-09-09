@@ -58,6 +58,6 @@
 ### VI. Documents
 - Sorfwave Info: [Sorfwave Info](https://drive.google.com/file/d/1ABDB7YsD-YxcSSksCfRQnqkGjs_3_Klr/view?usp=sharing)
 - Slide: [Slide](https://docs.google.com/presentation/d/1alUgbtRjxNYqOGTjrMdTnRfCKO_8lX6S/edit?usp=sharing&ouid=109527516488977417287&rtpof=true&sd=true)
-- Poster: [Poster](https://drive.google.com/file/d/1o7YrZJ1PFZ1Vdrbg4upPE7ysd9GHGFLf/view?usp=sharing)
+- Poster: [Poster](https://drive.google.com/file/d/1o7YrZJ1PFZ1Vdrbg4upPE7ysd9GHGFLf/view?usp=sharing)  
 My partner: Vu Quang Huy
 
