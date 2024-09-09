@@ -57,38 +57,67 @@
   - Run BE:
     - Update soon
 ### V. Some images of the software interface
-- Login/Register Interface:
-  - Customer
-  ![Login_Customer](Pictures/Login_Register/Login_Cus.jpg)
-  ![Register_Customer](Pictures/Login_Register/Register_Cus.jpg)
-  - Employee
+- Login/Register Interface:  
+  - Customer  
+  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
+    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
+      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="Pictures/Login_Register/Login_Cus.jpg" width="110" height="200" alt="Login Customer">
+      <img src="Pictures/Login_Register/Register_Cus.jpg" width="110" height="200" alt="Register Customer">
+    </div>
+  </div>
+
+  - Employee  
   ![Login_Emp](Pictures/Login_Register/Login_Employee.png)
   - Manager
-  ![Login_Man](Pictures/Login_Register/Login_Manager.png)
+  ![Login_Man](Pictures/Login_Register/Login_Manager.png)  
 - Customer (App) Interface:
-  - Main
-  ![Man](Pictures/Customer/Main.jpg)
-  - Info
-  ![Info](Pictures/Customer/Info.jpg)
-  - Notification
-  ![Notification](Pictures/Customer/Notification.jpg)
-  - OTP
-  ![OTP](Pictures/Customer/OTP.jpg)
-  - Post
-  ![Post](Pictures/Customer/Post.jpg)
-  - ListPost
-  ![ListPost](Pictures/Customer/ListPost.jpg)
-  - PostInfo
-  ![PostInfo](Pictures/Customer/PostInfo.jpg)
+  - Main/ Info/ Notification 
+  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
+    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
+      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="Pictures/Customer/Main.jpg" width="120" height="200" alt="Login Customer">
+      <img src="Pictures/Customer/Info.jpg" width="120" height="200" alt="Register Customer">
+      <img src="Pictures/Customer/Notification.jpg" width="120" height="200" alt="Register Customer">
+    </div>
+  </div>
+
+  - OTP/ Post/ ListPost 
+  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
+    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
+      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="Pictures/Customer/OTP.jpg" width="120" height="200" alt="Login Customer">
+      <img src="Pictures/Customer/Post.jpg" width="120" height="200" alt="Register Customer">
+      <img src="Pictures/Customer/ListPost.jpg" width="120" height="200" alt="Register Customer">
+    </div>
+  </div>
+
+  - PostInfo  
+  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
+    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
+      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+    </div>
+    <div style="display: flex; gap: 5px;">
+      <img src="Pictures/Customer/PostInfo.jpg" width="120" height="200" alt="Login Customer">
+
+    </div>
+  </div>
+ 
 - Employee Interface:
   - Main
   ![Main](Pictures/Employee/Main.png)
   - Access_Denid_post
-  ![Main](Pictures/Employee/Access_Denid_post.png)
+  ![Access_Denid_post](Pictures/Employee/Access_Denid_Post.jpg.png)
   - Customer_Manager
-  ![Customer_Manager](Pictures/Employee/Customer_Manager.png)
+  ![Customer_Manager](Pictures/Employee/Customer_Mananger.png)
   - Post_Manager
-  ![Post_Manager](Pictures/Employee/Post_Manager.png)
+  ![Post_Manager](Pictures/Employee/PostManager.png)
 - Manager Interface
   - Main
   ![Main](Pictures/Manager/Main.png)
