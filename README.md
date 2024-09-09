@@ -49,8 +49,23 @@
 - Step 3:
 - Step 4:
 ### V. Some images of the software interface
-- Employee Access Posts Page:
-[Employee Access Posts Page](https://movecare.vercel.app/)
+- Employee Access Posts Page: [Employee Access Posts Page](https://movecare.vercel.app/)
+- Accounts ():
+![Login/ Register](Picture/Login_Register.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Manager Page:
 [Manager Page](http://vuquanghuydev.pythonanywhere.com/admin/login/?next=/admin/)
   - Account: `+84984218514` `123123`
@@ -58,6 +73,8 @@
 ### VI. Documents
 - Sorfwave Info: [Sorfwave Info](https://drive.google.com/file/d/1ABDB7YsD-YxcSSksCfRQnqkGjs_3_Klr/view?usp=sharing)
 - Slide: [Slide](https://docs.google.com/presentation/d/1alUgbtRjxNYqOGTjrMdTnRfCKO_8lX6S/edit?usp=sharing&ouid=109527516488977417287&rtpof=true&sd=true)
-- Poster: [Poster](https://drive.google.com/file/d/1o7YrZJ1PFZ1Vdrbg4upPE7ysd9GHGFLf/view?usp=sharing)  
-My partner: Vu Quang Huy
+- Poster: [Poster](https://drive.google.com/file/d/1o7YrZJ1PFZ1Vdrbg4upPE7ysd9GHGFLf/view?usp=sharing)
+### VII. Partner
+- Vu Quang Huy
+
 
