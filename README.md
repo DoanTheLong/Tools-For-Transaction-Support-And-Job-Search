@@ -27,7 +27,14 @@
 - Programming language:
   - Python, JavaScript.
 - Framework:
-  - Nextjs, ReactNative, Django, Django Rest Framework, 
+  - Android FE:
+    -  ReactNative
+  - Web FE:
+    - Nextjs
+  - BE:
+    - Django, Django Rest Framework
+- Library:
+    - MUI 
 - Database:
   - SQLite, Firebase
 - Architecture:
@@ -42,4 +49,10 @@
 - Step 3:
 - Step 4:
 ### V. Some images of the software interface
+- Employee Access Posts Page:
+[Employee Access Posts Page](https://movecare.vercel.app/)
+- Manager Page:
+[Manager Page](http://vuquanghuydev.pythonanywhere.com/admin/login/?next=/admin/)
+  - Account: `+84984218514` `123123`
+- Android Interface (Customer):
 
