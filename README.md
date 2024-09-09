@@ -59,56 +59,31 @@
 ### V. Some images of the software interface
 - Login/Register Interface:  
   - Customer  
-  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
-    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
-      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+    <div style="display: flex; gap: 10px; margin-left:100px;">
+      <img src="Pictures/Login_Register/Login_Cus.jpg" width="" height="450" alt="Login Customer">
+      <img src="Pictures/Login_Register/Register_Cus.jpg" width="" height="450" alt="Register Customer">
     </div>
-    <div style="display: flex; gap: 5px;">
-      <img src="Pictures/Login_Register/Login_Cus.jpg" width="110" height="200" alt="Login Customer">
-      <img src="Pictures/Login_Register/Register_Cus.jpg" width="110" height="200" alt="Register Customer">
-    </div>
-  </div>
-
   - Employee  
   ![Login_Emp](Pictures/Login_Register/Login_Employee.png)
   - Manager
   ![Login_Man](Pictures/Login_Register/Login_Manager.png)  
 - Customer (App) Interface:
-  - Main/ Info/ Notification 
-  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
-    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
-      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
+  - Main/ Info/ Notification   
+    <div style="display: flex; gap: 10px; margin-left:100px;">
+      <img src="Pictures/Customer/Main.jpg" width="" height="450" alt="Login Customer">
+      <img src="Pictures/Customer/Info.jpg" width="" height="450" alt="Register Customer">
+      <img src="Pictures/Customer/Notification.jpg" width="" height="450" alt="Register Customer">
     </div>
-    <div style="display: flex; gap: 5px;">
-      <img src="Pictures/Customer/Main.jpg" width="120" height="200" alt="Login Customer">
-      <img src="Pictures/Customer/Info.jpg" width="120" height="200" alt="Register Customer">
-      <img src="Pictures/Customer/Notification.jpg" width="120" height="200" alt="Register Customer">
+  - OTP/ Post/ ListPost
+    <div style="display: flex; gap: 10px; margin-left:100px;">
+        <img src="Pictures/Customer/OTP.jpg" width="" height="450" alt="Login Customer">
+        <img src="Pictures/Customer/Post.jpg" width="" height="450" alt="Register Customer">
+        <img src="Pictures/Customer/ListPost.jpg" width="" height="450" alt="Register Customer">
     </div>
-  </div>
-
-  - OTP/ Post/ ListPost 
-  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
-    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
-      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
-    </div>
-    <div style="display: flex; gap: 5px;">
-      <img src="Pictures/Customer/OTP.jpg" width="120" height="200" alt="Login Customer">
-      <img src="Pictures/Customer/Post.jpg" width="120" height="200" alt="Register Customer">
-      <img src="Pictures/Customer/ListPost.jpg" width="120" height="200" alt="Register Customer">
-    </div>
-  </div>
-
-  - PostInfo  
-  <div style="padding-left: 40px; margin-top:-45px; margin-bottom:5px;">
-    <div style="text-align: left; margin-bottom: 5px;"> <!-- Giảm khoảng cách giữa tiêu đề và hình ảnh -->
-      <h2 style="font-size: 1em; text-decoration: none; border: none;"></h2>
-    </div>
-    <div style="display: flex; gap: 5px;">
-      <img src="Pictures/Customer/PostInfo.jpg" width="120" height="200" alt="Login Customer">
-
-    </div>
-  </div>
- 
+  - PostInfo
+    <div style="display: flex; gap: 10px; margin-left:100px;">
+      <img src="Pictures/Customer/PostInfo.jpg" width="" height="450" alt="Login Customer">
+    </div> 
 - Employee Interface:
   - Main
   ![Main](Pictures/Employee/Main.png)
